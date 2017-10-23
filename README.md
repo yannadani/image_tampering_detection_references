@@ -10,5 +10,5 @@ A list of papers, codes and other interesting collections pertaining to image ta
 6. Fan, Jiayuan, Tao Chen, and Jiuwen Cao. "Image tampering detection using noise histogram features." *IEEE International Conference on Digital Signal Processing*, 2015. [pdf](http://ieeexplore.ieee.org/abstract/document/7252037/)<br/>
 7. Gaborini, Lorenzo, et al. "Multi-clue image tampering localization." *IEEE International Workshop on Information Forensics and Security*, 2014. [pdf](http://ai2-s2-pdfs.s3.amazonaws.com/081e/8fb55369588cbd0f9b032c4e20fdeca1c7e6.pdf)
 8. Birajdar, Gajanan K., and Vijay H. Mankar. "Digital image forgery detection using passive techniques: A survey." *Digital Investigation 10.3*, 2013. [pdf](http://www.dxsx.net/admin/editor/upload/201412/2014122915411949.pdf)<br/>
-9. 
+9. Muhammad, Ghulam, et al. "Image forgery detection using steerable pyramid transform and local binary pattern." *Machine Vision and Applications* 25.4, 2014. [pdf](http://link.springer.com/article/10.1007/s00138-013-0547-4)
 
