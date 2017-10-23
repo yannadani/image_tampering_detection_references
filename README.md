@@ -23,8 +23,9 @@ A list of papers, codes and other interesting collections pertaining to image ta
 19. Farid, Hany. "Image forgery detection." *IEEE Signal processing magazine*, 2009. [pdf](http://www.ccse.kfupm.edu.sa/~ahmadsm/coe589-121/farid2009-image-forgery.pdf)<br/>
 20. Bianchi, Tiziano, and Alessandro Piva. "Image forgery localization via block-grained analysis of JPEG artifacts." *IEEE Transactions on Information Forensics and Security*, 2012. [pdf](http://porto.polito.it/2505892/1/bian_TIFS2012_OA.pdf)<br/>
 21. Muhammad, Ghulam, Muhammad Hussain, and George Bebis. "Passive copy move image forgery detection using undecimated dyadic wavelet transform." *Digital Investigation*, 2012. [pdf](https://pdfs.semanticscholar.org/facc/8ca2658fdf340f5d23fda6e7985ca03bbbca.pdf)<br/>
-22. Chen, Can, Scott McCloskey, and Jingyi Yu. "Image Splicing Detection via Camera Response Function Analysis." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2017. [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Image_Splicing_Detection_CVPR_2017_paper.pdf)<br/>
-**Deep Learning based Methods**
+22. Chen, Can, Scott McCloskey, and Jingyi Yu. "Image Splicing Detection via Camera Response Function Analysis." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2017. [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Image_Splicing_Detection_CVPR_2017_paper.pdf)<br/><br/>
+
+**Deep Learning based Methods**<br/>
 1. Chen, Jiansheng, et al. "Median filtering forensics based on convolutional neural networks." *IEEE Signal Processing Letters*, 2015. [pdf](http://ai2-s2-pdfs.s3.amazonaws.com/bfe4/567298070b9cb37eccc69359155c6118e736.pdf)<br/>
 2. Bayar, Belhassen, and Matthew C. Stamm. "A deep learning approach to universal image manipulation detection using a new convolutional layer." *Proceedings of the 4th ACM Workshop on Information Hiding and Multimedia Security*, 2016. [pdf](http://www.ece.drexel.edu/stamm/papers/Bayar_IHMMSec_2016.pdf)<br/>
 3. Liu, Yaqi, et al. "Image Forgery Localization Based on Multi-Scale Convolutional Neural Networks." arXiv preprint arXiv:1706.07842 (2017). [pdf](https://arxiv.org/pdf/1706.07842)<br/>
